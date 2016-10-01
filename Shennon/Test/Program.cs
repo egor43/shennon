@@ -11,7 +11,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Shennon sh = new Shennon("");
+            Shennon sh = new Shennon("reww jhgjhg");
         }
     }
 }

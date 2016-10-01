@@ -47,6 +47,7 @@ namespace ShennonLbr
             }
             return result;
         }
+
         public Shennon(string message)
         {
             //HACK: для теста
